@@ -4,5 +4,7 @@
 ## Notes: Quick addon to test LibClassicSwingTimerAPI when embedded as a library.
 ## Author: Swedge
 
-Libs/LibClassicSwingTimerAPI/LibClassicSwingTimerAPI.xml
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\LibClassicSwingTimerAPI\LibClassicSwingTimerAPI.xml
 main.lua

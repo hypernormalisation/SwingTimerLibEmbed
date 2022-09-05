@@ -1,5 +1,9 @@
 externals:
-  Libs/LibClassicSwingTimerAPI: https://github.com/hypernormalisation/LibClassicSwingTimerAPI
-  
+  Libs/LibStub: https://repos.curseforge.com/wow/libstub/trunk
+  Libs/CallbackHandler-1.0: https://repos.curseforge.com/wow/callbackhandler/trunk/CallbackHandler-1.0
+  Libs/LibClassicSwingTimerAPI:
+    url: https://github.com/hypernormalisation/LibClassicSwingTimerAPI
+    tag: main
+
 ignore:
   - README.md
