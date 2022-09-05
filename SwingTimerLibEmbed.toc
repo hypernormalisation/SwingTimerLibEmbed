@@ -1,0 +1,8 @@
+## Interface: 30400
+## Version: 1.0.0
+## Title: SwingTimerLibEmbed
+## Notes: Quick addon to test LibClassicSwingTimerAPI when embedded as a library.
+## Author: Swedge
+
+Libs/LibClassicSwingTimerAPI/LibClassicSwingTimerAPI.xml
+main.lua

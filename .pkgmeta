@@ -1,0 +1,5 @@
+externals:
+  Libs/LibClassicSwingTimerAPI: https://github.com/hypernormalisation/LibClassicSwingTimerAPI
+  
+ignore:
+  - README.md
