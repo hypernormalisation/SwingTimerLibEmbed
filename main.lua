@@ -1,9 +1,10 @@
 local addon_name, mytab = ...
+local version = "@project-version@"
 
 -- As we list LibClassicSwingTimerAPI as an external dependency in the TOC, this will
 -- only run if LibClassicSwingTimerAPI is installed as a standalone library addon.
 local SwingTimerLib = LibStub("LibClassicSwingTimerAPI", true)
-print("Detected necessary addon!")
+print(string.format("Loaded SwingTimerLibEmbed version: %s", version))
 
 local SwingTimerInfo = function(hand)
     return SwingTimerLib:SwingTimerInfo(hand)
